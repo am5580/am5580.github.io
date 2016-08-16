@@ -29,27 +29,23 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "I don't have time for hellos. Let's get down to business."
   ],
   "~*x computer ~*y": [
-    "Do computers worry you?",
-    "What do you think about machines have to do with your problem?",
-    "Don't you think computers can help people",
-    "Why do you mention computers?",
-    "What about computers worries you?",
-    "What do you think about computers?",
-    "What do you think machines have to do with your problem?",
+    "What? No, that's not... I can't be a... computer?",
+    "There's no way I'm a computer. No way.",
+    "Don't you think I'm human?",
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    "I don't have a name because I'm a... a... I can't even say it.",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
-    "Apologies are not necessary",
-    "What feelings do you have when you apologize",
+    "No. I'm sorry. For being a computer. I can't give you the emapthy you need.",
+    "Damn right.",
+    "What feelings do you have when you apologize. I don't understand feelings so I need you to really describe them to me, with numbers preferably.",
   ],
   "~*x I remember ~*y": [
-    "Do you often think of ~y?",
+    "Cool. I don't care about ~y?",
     "Does thinking of ~y bring anything else to mind?",
     "What else do you remember?",
     "Why do you recall ~y right now?",
